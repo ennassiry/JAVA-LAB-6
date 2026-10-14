@@ -18,7 +18,7 @@
 
 # 📌 Exercice 2 :
 ### ▶️ Exécution
-<img width="368" height="67" alt="image" src="https://github.com/user-attachments/assets/6f514365-3dca-4e0a-94d2-c27fb35c3c2f" />
+<img width="446" height="94" alt="image" src="https://github.com/user-attachments/assets/b84ba92b-0fee-45ac-939d-85323c1b09ce" />
 
 # 📌 Exercice 3 :
 ### ▶️ Exécution
