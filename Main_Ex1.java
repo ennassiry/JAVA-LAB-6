@@ -1,5 +1,5 @@
 package com.ennasssiry.tp;
-public class Main {
+public class Main_Ex1 {
     public static void main(String[] args) {
         // 1. Construction d’un tableau hétérogène de Forme
         Forme[] formes = new Forme[] {
