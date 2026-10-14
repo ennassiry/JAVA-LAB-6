@@ -1,6 +1,6 @@
 package com.ennassiry.tp1;
 
-public class Main {
+public class Main_Ex2 {
     public static void main(String[] args) {
         MediaLibrary lib = new MediaLibrary();
 
